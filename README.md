@@ -26,10 +26,9 @@ This project analyzes retail sales data from a US-based superstore to uncover tr
 - Return rate remained below 4%
 
 
-<img width="2516" height="1660" alt="image" src="https://github.com/user-attachments/assets/20fc461a-9507-4e65-848f-6bb51b678c51" />
-
-
 ## Live Dashboard
 Link: https://public.tableau.com/app/profile/samuel.da.silva5371/viz/Super_Store_Sales_Analysis_17784297701690/SuperStoreSalesvsProfitPerformanceDashboard
+
+<img width="2516" height="1660" alt="image" src="https://github.com/user-attachments/assets/20fc461a-9507-4e65-848f-6bb51b678c51" />
 
 
