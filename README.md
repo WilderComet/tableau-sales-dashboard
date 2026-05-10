@@ -24,5 +24,6 @@ Key Insights
 - Technology generated the highest overall profit margin.
 - Furniture had the highest return-related losses.
 - The West region contributed the highest sales revenue.
+- Return rate remained below 4%
 
 Dashboard Preview
