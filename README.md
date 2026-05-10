@@ -1,7 +1,6 @@
 # Retail Sales Dashboard (Tableau)
 
-Tableau dashboard analyzing retail sales, profitability,
-returns, and customer behavior across regions and product categories.
+This project analyzes retail sales data from a US-based superstore to uncover trends in sales, profitability, and customer segments. The analysis includes data cleaning, key business metrics, and multiple chart visualizations built with Tableau
 
 Objectives
 - Analyze sales and profit trends
