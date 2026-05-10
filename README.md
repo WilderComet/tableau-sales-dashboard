@@ -1,6 +1,6 @@
-# Retail Sales Dashboard (Tableau)
+# Super Store (Sales vs Profit) Performance Dashboard
 
-This project analyzes retail sales data from a US-based superstore to uncover trends in sales, profitability, and customer segments. The analysis includes data cleaning, key business metrics, and multiple chart visualizations built with Tableau
+This project analyzes retail sales data from a US-based superstore to uncover trends in profitability, returns, and regional performance. The analysis includes data cleaning, key business metrics, and multiple chart visualizations built with Tableau
 
 Objectives
 - Analyze sales and profit trends
