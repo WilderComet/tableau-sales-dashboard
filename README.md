@@ -20,3 +20,9 @@ Dashboard Features
 - Product profitability analysis
 - Return analysis
 
+Key Insights
+- Technology generated the highest overall profit margin.
+- Furniture had the highest return-related losses.
+- The West region contributed the highest sales revenue.
+
+Dashboard Preview
