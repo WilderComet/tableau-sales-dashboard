@@ -26,5 +26,5 @@ Key Insights
 - The West region contributed the highest sales revenue.
 - Return rate remained below 4%
 
-Dashboard Preview
+
 <img width="2529" height="1638" alt="image" src="https://github.com/user-attachments/assets/9cfc84f0-60f2-42c0-8c47-b3b4116e5338" />
