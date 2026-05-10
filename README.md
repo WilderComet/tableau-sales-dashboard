@@ -27,4 +27,5 @@ Key Insights
 - Return rate remained below 4%
 
 
-<img width="2529" height="1638" alt="image" src="https://github.com/user-attachments/assets/9cfc84f0-60f2-42c0-8c47-b3b4116e5338" />
+<img width="2514" height="1632" alt="image" src="https://github.com/user-attachments/assets/4fd641da-71e0-4f12-8c18-804c3cce2f55" />
+
