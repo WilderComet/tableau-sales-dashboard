@@ -11,6 +11,7 @@ Objectives
 Tools Used
 - Tableau
 - Excel
+- SQL
 
 Dashboard Features
 - KPI tracking
